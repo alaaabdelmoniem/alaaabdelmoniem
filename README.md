@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Alaa Abdelmoniem</h1>
+<h1 align="center">
+  <a href="https://github.com/alaaabdelmoniem">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hi+👋,+I'm+Alaa+Abdelmoniem" alt="Hi 👋, I'm Alaa Abdelmoniem" />
+  </a>
+</h1>
 <h3 align="center">Flutter Developer · Mentor at ICPC Zagazig Community</h3>
 
 <p align="center">
@@ -18,15 +22,14 @@
 
 ## 💻 Tech Stack:
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
+![Dart](https://img.shields.io/badge/Dart-white?style=for-the-badge&logo=dart&logoColor=0175C2)
+![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=02569B)
+![C++](https://img.shields.io/badge/C++-white?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=csharp&logoColor=239120)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=3776AB)
+![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Supabase](https://img.shields.io/badge/Supabase-white?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ## 📌 Featured Project:
 
