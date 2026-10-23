@@ -27,11 +27,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaaabdelmoniem&layout=compact&theme=dark&hide=cmake,c,swift" alt="Most used languages" />
-</p>
 
 ## 📌 Featured Project:
 
