@@ -10,7 +10,6 @@
 - 📱 I’m a **Flutter Developer** and a **Mentor at ICPC Zagazig Community**
   - 👯 I’m looking to collaborate on **Flutter** and open-source mobile projects
   - 🧩 Building reusable Flutter components, animations & UI kits
-  - 🔭 Currently working on **[Parking App](https://github.com/alaaabdelmoniem/parking_App)**, a Flutter app to find, book, and navigate to nearby parking spots (Supabase, Cubit, OpenStreetMap)
 
 ## 🌐 Socials:
 
