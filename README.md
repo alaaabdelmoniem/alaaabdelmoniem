@@ -1,6 +1,9 @@
 <p align="center">
   <a href="https://github.com/alaaabdelmoniem">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=120&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=false&width=650&height=70&lines=Hi+%F0%9F%91%8B,+I'm+Alaa+Abdelmoniem" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=120&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi+%F0%9F%91%8B,+I%27m+Alaa+Abdelmoniem">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=120&pause=1000&color=1F2328&center=true&vCenter=true&repeat=false&width=700&height=60&lines=Hi+%F0%9F%91%8B,+I%27m+Alaa+Abdelmoniem" alt="Hi, I'm Alaa Abdelmoniem" />
+    </picture>
   </a>
 </p>
 
@@ -18,20 +21,21 @@
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=white&label=%20" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=white&label=%20" alt="Email" /></a>
-<a href="https://github.com/alaaabdelmoniem"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=white&label=%20" alt="GitHub" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 ## 💻 Tech Stack:
 
-<img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=white&label=%20" alt="Dart" />
-<img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=white&label=%20" alt="Flutter" />
-<img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=white&label=%20" alt="C++" />
-<img src="https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=white&label=%20" alt="C#" />
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=white&label=%20" alt="Python" />
-<img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=white&label=%20" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E&labelColor=white&label=%20" alt="Supabase" />
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=white&label=%20" alt="Figma" />
+<p align="left">
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=dart&logoColor=0175C2" height="28" /><img src="https://img.shields.io/badge/Dart-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=flutter&logoColor=02569B" height="28" /><img src="https://img.shields.io/badge/Flutter-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=cplusplus&logoColor=00599C" height="28" /><img src="https://img.shields.io/badge/C++-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=csharp&logoColor=239120" height="28" /><img src="https://img.shields.io/badge/C%23-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=python&logoColor=3776AB" height="28" /><img src="https://img.shields.io/badge/Python-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=firebase&logoColor=FFCA28" height="28" /><img src="https://img.shields.io/badge/Firebase-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=supabase&logoColor=3ECF8E" height="28" /><img src="https://img.shields.io/badge/Supabase-0d1117?style=flat" height="28" />
+<img src="https://img.shields.io/badge/%20-ffffff?style=flat&logo=figma&logoColor=F24E1E" height="28" /><img src="https://img.shields.io/badge/Figma-0d1117?style=flat" height="28" />
+</p>
 
 ## 📌 Featured Project:
 
